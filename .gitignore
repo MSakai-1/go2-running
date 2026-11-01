@@ -1,0 +1,6 @@
+__pycache__/
+*.mp4
+logs/*/model_*.pt
+!logs/go2-running/model_1500.pt
+logs/*/events.*
+logs/*/git/
